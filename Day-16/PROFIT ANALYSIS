@@ -1,0 +1,20 @@
+# Day 16: Simple Profit Analysis 📊
+
+## 📌 Project Overview
+This project focuses on evaluating total and average profitability across product categories using Microsoft Excel.
+
+## 🎯 Objectives
+- Analyze profit distribution across product categories.
+- Group data using Pivot Tables.
+- Compare total profit vs. average profit using charts.
+
+## 🛠️ Tools Used
+- **Microsoft Excel for the Web**: Data aggregation, Pivot Tables, Column Chart.
+
+## 🔍 Key Insights
+- **Top Performing Category**: Technology generated the highest total profit and average profit per order.
+- **Furniture Category**: Lower profit margin compared to other categories, requiring cost or discount optimization.
+
+## ❓ Interview Questions Summary
+1. **Revenue vs Profit**: Revenue is total income from sales; Profit is remaining income after deducting all costs.
+2. **High Sales but Low Profit**: Caused by heavy discounting, high operational/shipping costs, or low profit margins.
